@@ -1,0 +1,8 @@
+# Ignore data files
+*.xlsx
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.RHistory
